@@ -44,12 +44,11 @@ def create_driver():
 driver = create_driver()
 
 construction_csv = ConstructionCSV("..\\dataset\\dataset_pc_from_dns.csv")
-construction_csv.create_csv()
 
-TARGET_ROWS = 300
+TARGET_ROWS = 300 - 91
 PRODUCTS_PER_PAGE = 18
 current_row_count = 0
-list_page = []
+list_page = [14, 6, 26, 19, 29]
 current_page = randint(1, 31)
 
 def parse_product():
@@ -128,7 +127,7 @@ def parse_product():
 
 
 while current_row_count < TARGET_ROWS:
-    list_page.append(current_row_count)
+    list_page.append(current_page)
     url = f'https://www.dns-shop.ru/catalog/17a8932c16404e77/personalnye-kompyutery/?p={current_page}'
     driver.get(url)
     print(f"\n=== Страница {current_page} ===")

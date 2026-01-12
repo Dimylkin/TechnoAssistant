@@ -1,19 +1,301 @@
 price,os,new,model_cpu,core,frequency_ghz,socket,ram_gb,ram_type,ram_ghz,model_gpu,vram_gb,storage_gb,mother_board,power_supply,estimation,link
-56299,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,350,,https://www.dns-shop.ru/product/49bf0be819a8d582/pk-dexp-atlas-h529/
-169999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/e664ca2e799ed9cb/pk-ardor-gaming-rage-h418/
-77499,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/1bf9b7ffa594d582/pk-ardor-gaming-neo-m162/
-77499,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/3aebe86e61cbed20/pk-ardor-gaming-neo-m143/
-134999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/68d69aa4895cd9cb/pk-ardor-gaming-rage-h425/
-136499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/8c0224ec6846d9cb/pk-ardor-gaming-rage-h411/
-69999,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,500,Intel H610,500,,https://www.dns-shop.ru/product/f1fe92001a94d582/pk-ardor-gaming-neo-m177/
-169999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/143984a479b3d9cb/pk-ardor-gaming-rage-h422/
-160999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/c9ea7348939fd582/pk-ardor-gaming-rage-h427/
-113499,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 4060,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/954eb7c1fe50d9cb/pk-ardor-gaming-rage-h386/
-39799,Windows 11 Pro,yes,AMD Ryzen 5 6600H,6,4.5 ГГц,FP7,16 ГБ,DDR5,4800 МГц,AMD Radeon 660M,,512,SoC,90В,,https://www.dns-shop.ru/product/1032684d843fd582/mini-pk-chuwi-ubox-1746526/
-157999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/7820c6729ea4d582/pk-ardor-gaming-rage-h431/
-76799,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/33869a9b24c1d582/pk-ardor-gaming-neo-m181/
-111999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/7b2559d2895bd9cb/pk-ardor-gaming-neo-m213/
-39999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,500,AMD A520,350,,https://www.dns-shop.ru/product/4707abe171b5d582/pk-dexp-aquilon-o344/
-120999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 4060,8 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/6d81b1f814fad582/pk-ardor-gaming-rage-h392/
-44999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,350,,https://www.dns-shop.ru/product/577304cc31fad582/pk-dexp-atlas-h533/
-152999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/a0d61ea19ea3d582/pk-ardor-gaming-rage-h430/
+834999,macOS,yes,Apple M2 Ultra,24,0 ГГц,,64 ГБ,LPDDR5,,Apple M2 Ultra 76-core,,1024,SoC,1280,,https://www.dns-shop.ru/product/109923d08483d21a/pk-apple-mac-pro-m2-ultra-z1719/
+37999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,400,,https://www.dns-shop.ru/product/7b7437865f64d0a4/pk-dexp-atlas-h465/
+322999,без ОС,yes,Intel Core Ultra 7 265K,20,5.5 ГГц,LGA 1851,32 ГБ,DDR5,5600 МГц,GeForce RTX 4080 SUPER,16 ГБ,1024,Intel Z890,1000,,https://www.dns-shop.ru/product/a52c42537af0d9cb/pk-msi-mpg-infinite-x3-ai-2nug7-006xru-9s6-b94211-006/
+81499,без ОС,yes,Intel Core i7-12700,12,4.9 ГГц,LGA 1700,32 ГБ,DDR4,3200 МГц,Intel UHD Graphics 770,,1024,Intel B760,500,,https://www.dns-shop.ru/product/e2803a31c360d9cb/pk-dexp-atlas-h566/
+19699,без ОС,yes,Intel N100,4,,BGA 1264,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics,,256,SoC,36В,,https://www.dns-shop.ru/product/9fe28da30ed4d9cb/mini-pk-dexp-compact-m008/
+41999,Windows 11 Pro,yes,Intel Core i3-1220P,10,4.4 ГГц,BGA 1744,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics,,512,SoC,90В,,https://www.dns-shop.ru/product/9c8c7380843fd582/mini-pk-chuwi-larkbox-s-1746751/
+261999,macOS,yes,Apple M4 Max,14,,,36 ГБ,,,Apple M4 Max 32-core,,512,SoC,480,,https://www.dns-shop.ru/product/4a5fd7a2fa5ed21a/mini-pk-apple-mac-studio-m4-max/
+83999,Windows 11 Pro,yes,AMD Ryzen 7 8845HS,8,5.1 ГГц,FP8,32 ГБ,DDR5,5600 МГц,AMD Radeon 780M,,1024,SoC,120,,https://www.dns-shop.ru/product/67188314f27dd582/mini-pk-beelink-ser8-00082/
+286999,без ОС,yes,Intel Core Ultra 7 265K,20,5.5 ГГц,LGA 1851,32 ГБ,DDR5,5600 МГц,GeForce RTX 4070 Ti SUPER,16 ГБ,2048,Intel Z890,850,,https://www.dns-shop.ru/product/a1d2eb7f7af1d9cb/pk-msi-mpg-infinite-x3-ai-2nuf7-008xru-9s6-b94211-008/
+69999,без ОС,yes,Intel Core i7-1255U,10,4.7 ГГц,BGA 1744,16 ГБ,DDR4,,Intel Iris Xe Graphics,,1024,SoC,120,,https://www.dns-shop.ru/product/71cfd604eca7ed20/mini-pk-msi-pro-dp10-12m-220xru-9s6-b0a622-220/
+449999,без ОС,yes,Intel Core Ultra 7 265K,20,5.5 ГГц,LGA 1851,32 ГБ,DDR5,5600 МГц,GeForce RTX 5080,16 ГБ,,Intel Z890,1200,,https://www.dns-shop.ru/product/194d2eba7420d582/pk-msi-meg-vision-x-ai-2nvv7-242xru-9s6-b92111-242/
+47499,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,500,,https://www.dns-shop.ru/product/118bda5144f4d9cb/pk-dexp-atlas-h543/
+29799,без ОС,yes,AMD Ryzen 3 3200G,4,4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 8,,256,AMD A520,350,,https://www.dns-shop.ru/product/288b5edcc44dd582/pk-dexp-aquilon-o361/
+70999,Linux,yes,AMD Ryzen 7 7840HS,8,5.1 ГГц,,16 ГБ,DDR5,,AMD Radeon 780M,,512,,100,,https://www.dns-shop.ru/product/222eb65b5b5cd0a4/mini-pk-maibenben-pc87-pc8700f0lb0e0/
+261999,без ОС,yes,Intel Core i7-13700KF,16,5.4 ГГц,LGA 1700,32 ГБ,DDR4,,GeForce RTX 4070 Ti,12 ГБ,1024,Intel Z790,800,,https://www.dns-shop.ru/product/a992675b5462d9cb/pk-iru-game-710z7gp-mt-2016218/
+53299,без ОС,yes,Intel Core i5-1235U,10,4.4 ГГц,BGA 1744,16 ГБ,DDR4,,Intel Iris Xe Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/744354c7eca7ed20/mini-pk-msi-pro-dp10-12m-221ru-9s6-b0a622-221/
+38999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,300,,https://www.dns-shop.ru/product/d33d9335988aed20/pk-dexp-atlas-h426/
+29799,без ОС,yes,Intel Pentium Gold G6405,2,0 ГГц,LGA 1200,8 ГБ,DDR4,2666 МГц,GeForce GT 710,2 ГБ,256,Intel H470,400,,https://www.dns-shop.ru/product/a582c9ac0b59d9cb/pk-dexp-atlas-h445/
+38999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/2812cf68c440d9cb/pk-dexp-aquilon-o359/
+107999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,16 ГБ,DDR5,5600 МГц,GeForce RTX 5060,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/60e4992bd4c3d582/pk-ardor-gaming-neo-m249/
+37299,без ОС,yes,Intel Core i3-1315U,6,4.5 ГГц,BGA 1744,8 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/8446160c89aced20/mini-pk-msi-pro-dp-10-13m-069xru-9s6-b0a612-069/
+99999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,16 ГБ,DDR5,5600 МГц,GeForce RTX 5050,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/d01940cbd66bd9cb/pk-ardor-gaming-neo-m254/
+31299,Windows 11 Pro,yes,Intel Core i3-1315U,6,4.5 ГГц,BGA 1744,8 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,60В,,https://www.dns-shop.ru/product/3822c6ea43d3d0a4/mini-pk-rombica-blackbird-i3-q131u85p-pcmi-0332/
+32999,без ОС,yes,Intel N200,4,,BGA 1264,8 ГБ,DDR4,,Intel UHD Graphics,,,SoC,65В,,https://www.dns-shop.ru/product/184d49b3603cd582/mini-pk-msi-cubi-n-adl-030xru-9s6-b0a911-099/
+47999,без ОС,yes,Intel Core i5-1235U,10,4.4 ГГц,BGA 1744,8 ГБ,DDR4,,Intel Iris Xe Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/8803da49eca7ed20/mini-pk-msi-pro-dp10-12m-200xru-9s6-b0a621-200/
+45499,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,120,,https://www.dns-shop.ru/product/2033018943d3d0a4/mini-pk-rombica-whitebird-i5-wx124165p-pcmi-0352/
+37999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/90b6d19044f1d9cb/pk-dexp-aquilon-o333/
+28999,без ОС,yes,Intel N100,4,,BGA 1264,8 ГБ,DDR4,,Intel UHD Graphics,,256,SoC,65В,,https://www.dns-shop.ru/product/8e772deaeca7ed20/mini-pk-msi-cubi-n-adl-037xru-9s6-b0a911-057/
+47999,без ОС,yes,Intel Core 3-100U,6,4.7 ГГц,BGA 1744,8 ГБ,DDR5,,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/77ff73fe6039d582/mini-pk-msi-cubi-nuc-1m-045xru-9s6-b0b111-045/
+25199,Windows 11 Pro,yes,Intel Celeron N5095,4,2.9 ГГц,BGA 1090,8 ГБ,DDR4,,Intel UHD Graphics,,,,60В,,https://www.dns-shop.ru/product/9c24756ade14d582/mini-pk-azerty-az-0016-8-512-120-0700/
+79999,Windows 11 Pro,yes,Intel Core i3-13100T,4,4.2 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel Q670,90В,,https://www.dns-shop.ru/product/9508ed5be2a4ed20/mini-pk-dell-optiplex-7010-micro-7010-3651/
+48799,Windows 11 Pro,yes,Intel Core i5-12450H,8,4.4 ГГц,BGA 1744,16 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,48В,,https://www.dns-shop.ru/product/78426ab9bdc9d9cb/mini-pk-teclast-m01-m01-12450h16g512kru/
+79799,без ОС,yes,Intel Core i5-1335U,10,4.6 ГГц,BGA 1744,16 ГБ,DDR4,,Intel Iris Xe Graphics,,512,SoC,65В,,https://www.dns-shop.ru/product/2fe2b2b6e685ed20/mini-pk-hp-pro-mini-260-g9-883x8ea/
+35999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/e70bca22d497d582/pk-dexp-aquilon-o368/
+34299,Windows 11 Pro,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,256,Intel H610,120,,https://www.dns-shop.ru/product/2032fe2743d3d0a4/mini-pk-rombica-whitebird-i3-wx12182p-pcmi-0350/
+31999,без ОС,yes,Intel Pentium Gold G7400,2,0 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 710,,512,Intel H610,350,,https://www.dns-shop.ru/product/ec76f5b1b479d582/pk-dexp-aquilon-o356/
+114499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/1c6d3b49a348d9cb/pk-ardor-gaming-neo-m222/
+148999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 4060,8 ГБ,1524,Intel B760,650,,https://www.dns-shop.ru/product/09c277e809ded9cb/pk-ardor-gaming-rage-h390/
+38799,Windows 11 Pro,yes,AMD Ryzen 5 PRO 5650U,6,4.2 ГГц,FP6,16 ГБ,DDR4,3200 МГц,AMD Radeon RX Vega 7,,500,SoC,85В,,https://www.dns-shop.ru/product/4cb5f56df27bd582/mini-pk-beelink-eqr5-00199/
+43999,Windows 11 Pro,yes,Intel Core i5-12450H,8,4.4 ГГц,BGA 1744,24 ГБ,LPDDR5,5200 МГц,Intel UHD Graphics,,500,SoC,,,https://www.dns-shop.ru/product/673df1a8faf0d582/mini-pk-beelink-eqi12-00131/
+78299,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 3050,6 ГБ,512,Intel H610,500,,https://www.dns-shop.ru/product/dbc8ec8c7adfd21a/pk-msi-mag-infinite-s3-12bta-2285xru-9s6-b93851-2436/
+93299,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 3050,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/f1293e884c17d582/pk-ardor-gaming-neo-m198/
+80499,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,AMD B550,500,,https://www.dns-shop.ru/product/7a4fa70740f1d582/pk-ardor-gaming-neo-m192/
+24799,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,16 ГБ,LPDDR5,,Intel UHD Graphics,,512,SoC,30В,,https://www.dns-shop.ru/product/ef6d2859e958492e/mini-pk-dexp-aquilon-aq02cy/
+73499,без ОС,yes,Intel Core i3-12100F,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,500,Intel H610,500,,https://www.dns-shop.ru/product/18d192d0a593d582/pk-ardor-gaming-neo-m161/
+277999,без ОС,yes,AMD Ryzen 7 7800X3D,8,5 ГГц,AM5,32 ГБ,DDR5,6400 МГц,GeForce RTX 5070 Ti,16 ГБ,2048,AMD B850,1000,,https://www.dns-shop.ru/product/5ffd34af8959d9cb/pk-ardor-gaming-evo-x120/
+150999,без ОС,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,32 ГБ,DDR5,,GeForce RTX 4070 SUPER,12 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/df2e2c737aded21a/pk-msi-mag-infinite-s3-14nue5-2283xru-9s6-b93851-2283/
+99999,без ОС,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,32 ГБ,DDR5,5600 МГц,GeForce RTX 5050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/26a232fc7426d582/pk-msi-mag-infinite-e1-14nvk5-237xru-9s6-b91111-237/
+40999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,500,AMD A520,500,,https://www.dns-shop.ru/product/d9cde86ba98cd582/pk-dexp-aquilon-o352/
+168099190999,macOS,yes,Apple M4 Pro,12,,,24 ГБ,LPDDR5X,,Apple M4 Pro 16-core,,512,SoC,155,,https://www.dns-shop.ru/product/7b6c83959823d21a/mini-pk-apple-mac-mini-m4-pro-mcx44/
+244999,без ОС,yes,Intel Core i7-14700KF,20,5.6 ГГц,LGA 1700,32 ГБ,DDR5,6400 МГц,GeForce RTX 4070 Ti SUPER,16 ГБ,2048,Intel Z790,850,,https://www.dns-shop.ru/product/be1373f6a58bd582/pk-ardor-gaming-evo-x083/
+57299,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,1024,Intel H610,350,,https://www.dns-shop.ru/product/ee19e75f50d6d582/pk-dexp-atlas-h544/
+113499128999,macOS,yes,Apple M4,10,,,24 ГБ,LPDDR5X,,Apple M4 10-core,,512,SoC,155,,https://www.dns-shop.ru/product/7910aaa99823d21a/mini-pk-apple-mac-mini-m4-mcyt4/
+56999,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,350,,https://www.dns-shop.ru/product/826cc20fb303d582/pk-dexp-aquilon-o354/
+41999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/bd866fe8612bd582/pk-dexp-aquilon-o338/
+183999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,2048,AMD B850,650,,https://www.dns-shop.ru/product/fe12581dc45cd582/pk-ardor-gaming-rage-h444/
+65999,без ОС,yes,AMD Ryzen 5 5600H,6,4.2 ГГц,FP6,16 ГБ,DDR4,,AMD Radeon Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/53b772571ed9ed20/mini-pk-asus-expertcenter-pn52-s5155md-90ms02f1-m004v0/
+45999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,500,AMD B550,500,,https://www.dns-shop.ru/product/1e9e93eb56fed582/pk-dexp-atlas-h548/
+63499,Windows 11 Pro,yes,Intel Core i9-13900HK,14,5.4 ГГц,BGA 1744,16 ГБ,DDR4,3200 МГц,Intel Iris Xe Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/cee7cc4e4cded582/mini-pk-chuwi-aubox-1746926/
+123999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/759cb57dc45bd582/pk-ardor-gaming-neo-m239/
+45499,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/663f939f7b02d582/pk-dexp-atlas-h480/
+111999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/e349bd74c996d582/pk-ardor-gaming-neo-m243/
+50999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,1024,AMD B550,500,,https://www.dns-shop.ru/product/32f8b07b31fed9cb/pk-dexp-atlas-h535/
+60299,без ОС,yes,Intel Core i7-13620H,10,4.9 ГГц,BGA 1744,16 ГБ,DDR5,5600 МГц,Intel UHD Graphics,,512,SoC,180,,https://www.dns-shop.ru/product/9c20e654df72d582/pk-asus-expertcenter-p500-p500mv-13620h0820-90pf05i1-m00x10/
+52799,Windows 11 Pro,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 710,,512,Intel H610,350,,https://www.dns-shop.ru/product/25e2cc11d2edd9cb/pk-dexp-atlas-h513/
+95999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,5200 МГц,GeForce RTX 3050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/109f4257c12cd582/pk-ardor-gaming-neo-m238/
+361999,без ОС,yes,Intel Core i7-14700K,20,5.6 ГГц,LGA 1700,32 ГБ,DDR5,,GeForce RTX 4080 SUPER,16 ГБ,1024,Intel Z790,850,,https://www.dns-shop.ru/product/ee6cedaf01e8d0a4/pk-lenovo-legion-t7-34irz8-90v700hpkz/
+84999,без ОС,yes,Intel Core i7-14700,20,5.4 ГГц,LGA 1700,16 ГБ,DDR5,,Intel UHD Graphics 730,,512,Intel H610,500,,https://www.dns-shop.ru/product/0450e81239f0d582/pk-msi-pro-dp180-14a-622xru-9s6-b0a741-873/
+55999,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,500,,https://www.dns-shop.ru/product/7ab3912dd883d582/pk-dexp-atlas-h519/
+110999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/82f582ffcc37d582/pk-ardor-gaming-neo-m247/
+38799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/ba294c5350d5d582/pk-dexp-aquilon-o335/
+101499,без ОС,yes,Intel Core i3-13100F,4,4.5 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,GeForce RTX 4060,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/0e7b3e307729d9cb/pk-ardor-gaming-neo-m156/
+49299,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,8 ГБ,DDR5,,Intel UHD Graphics 730,,512,Intel B760,300,,https://www.dns-shop.ru/product/780d13d2e81eed20/mini-pk-asus-expertcenter-d7-d700ser-3131000040-90pf04n1-m004n0/
+37799,Windows 11 Pro,yes,Intel Core i5-1135G7,4,4.2 ГГц,BGA 1449,8 ГБ,DDR4,,Intel Iris Xe Graphics,,256,SoC,65В,,https://www.dns-shop.ru/product/90cb8952a719d582/mini-pk-iru-310tlcn-1975172/
+177999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/90df9a13bb7fd9cb/pk-ardor-gaming-rage-h443/
+241999,без ОС,yes,Intel Core i5-14600KF,14,5.3 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 4070 Ti SUPER,16 ГБ,1024,Intel Z690,750,,https://www.dns-shop.ru/product/90e62a9b7634d582/pk-fragmachine-liquid-5107-173184/
+116999,Windows 11 Pro,yes,Intel Core i5-14500T,14,4.8 ГГц,LGA 1700,8 ГБ,DDR5,4800 МГц,Intel UHD Graphics 770,,512,Intel Q670,90В,,https://www.dns-shop.ru/product/a40bda3a0a19d582/mini-pk-lenovo-thinkcentre-m90q-gen-5-12th0024gp/
+210999,без ОС,yes,Intel Core i5-14600KF,14,5.3 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 4070 SUPER,12 ГБ,1024,Intel Z690,750,,https://www.dns-shop.ru/product/b537bd7c7633d582/pk-fragmachine-liquid-5107-173183/
+133999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,16 ГБ,DDR5,,GeForce RTX 4060 Ti,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/bc5f328bd4ebed20/pk-msi-mag-infinite-s3-13nud-871xru-9s6-b93841-871/
+34799,без ОС,yes,Intel Core i3-10100,4,4.3 ГГц,LGA 1200,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 630,,256,Intel H470,500,,https://www.dns-shop.ru/product/be18720dd3f8d9cb/pk-dexp-aquilon-o367/
+99999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,16 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A650,500,,https://www.dns-shop.ru/product/c2019dafd6fcd582/pk-ardor-gaming-neo-m257/
+32299,Windows 10 Pro,yes,AMD Ryzen 5 3500U,4,,FP5,8 ГБ,DDR4,,AMD Radeon Vega 6,,256,,72В,,https://www.dns-shop.ru/product/cf9c1726de17d582/mini-pk-azerty-az-0025-8-256-3500-120-0868/
+291999,без ОС,yes,Intel Core i7-14700KF,20,5.6 ГГц,LGA 1700,32 ГБ,DDR5,,GeForce RTX 4070 Ti SUPER,16 ГБ,1024,Intel Z790,850,,https://www.dns-shop.ru/product/d583279f01e8d0a4/pk-lenovo-legion-t7-34irz8-90v700hmkz/
+508999,Windows 10 Home,yes,Intel Core i7-14700KF,20,5.5 ГГц,LGA 1700,32 ГБ,DDR5,,GeForce RTX 4080,16 ГБ,2048,Intel Z690,1000,,https://www.dns-shop.ru/product/e1e8d15b2d11d582/pk-dell-alienware-aurora-r16-10sj0041ru/
+373999,без ОС,yes,Intel Core i7-14700KF,20,5.6 ГГц,LGA 1700,32 ГБ,DDR5,,GeForce RTX 4080 SUPER,16 ГБ,1024,Intel Z790,850,,https://www.dns-shop.ru/product/e61285ec01e8d0a4/pk-lenovo-legion-t7-34irz8-90v700hnkz/
+126499,Windows 11 Pro,yes,Intel Core i7-14700T,20,5.2 ГГц,LGA 1700,8 ГБ,DDR5,5600 МГц,Intel UHD Graphics 770,,512,Intel Q670,135,,https://www.dns-shop.ru/product/e75f99500a19d582/mini-pk-lenovo-thinkcentre-m90q-gen-5-12th0020gp/
+35799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,500,,https://www.dns-shop.ru/product/ecfd8738d567d582/pk-dexp-aquilon-o369/
+137999,без ОС,yes,Intel Core i5-13600KF,14,5.1 ГГц,LGA 1700,16 ГБ,DDR5,,GeForce RTX 4060,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/f27b94c9b049d0a4/pk-fragmachine-liquid-5106-185352/
+126999,без ОС,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,16 ГБ,DDR5,,GeForce RTX 4060 Ti,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/f5144efeed82d0a4/pk-msi-mag-infinite-s3-14nud5-1825xru-9s6-b93851-1825/
+53999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel B760,500,,https://www.dns-shop.ru/product/fcd00d26c450d582/pk-dexp-atlas-h567/
+45999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/0ead0a2d5946d582/pk-dexp-atlas-h463/
+45999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/0ead0a2d5946d582/pk-dexp-atlas-h463/
+34799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/62df65ef19c6d9cb/pk-dexp-aquilon-o326/
+73499,без ОС,yes,Intel Core i3-12100F,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/3d99ef1a68eed9cb/pk-ardor-gaming-neo-m207/
+105499,без ОС,yes,Intel Core i3-13100F,4,4.5 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 5060,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/9f76a89842aed9cb/pk-ardor-gaming-neo-m195/
+44999,Windows 11 Pro,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/2d2238d07014d9cb/pk-dexp-atlas-h475/
+58499,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,1024,AMD B550,600,,https://www.dns-shop.ru/product/d11f82425e2ed582/pk-dexp-mars-g011/
+34799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,256,Intel H610,400,,https://www.dns-shop.ru/product/2e93ae320115d582/pk-dexp-atlas-h444/
+91499,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 3050,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/28b21dfe740fd582/pk-ardor-gaming-neo-m209/
+124999,без ОС,yes,Intel Core i7-13620H,10,4.9 ГГц,BGA 1744,16 ГБ,DDR5,5600 МГц,GeForce RTX 5060,8 ГБ,1024,SoC,330,,https://www.dns-shop.ru/product/767d3df787a1d582/pk-asus-tuf-gaming-t500mv-13620h0840-90pf05h2-m00xh0/
+55999,Windows 11 Home,yes,Intel Core i5-13420H,8,4.6 ГГц,BGA 1744,16 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/9bfd2b7a5f4ed582/mini-pk-tecno-mega-mini-m1-71003300336/
+107499,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/95c77826bb80d9cb/pk-ardor-gaming-neo-m237/
+34799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/cc8965986939d9cb/pk-dexp-aquilon-o342/
+53999,без ОС,yes,Intel Core i5-13400,10,4.6 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel B760,500,,https://www.dns-shop.ru/product/c8cb2b1bd2eed9cb/pk-dexp-atlas-h515/
+169999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,32 ГБ,DDR5,6400 МГц,Radeon RX 7800 XT,16 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/bdc971f9e36bd582/pk-ardor-gaming-rage-h372/
+135499,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/6b81722279afd9cb/pk-ardor-gaming-rage-h419/
+40999,Windows 11 Pro,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/5eda0e9aa6eed582/pk-dexp-atlas-h495/
+45999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Vega 7,,512,AMD B550,500,,https://www.dns-shop.ru/product/ef4bf271b771d9cb/pk-dexp-atlas-h503/
+91799,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,16 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/0445d940d4b7d9cb/pk-ardor-gaming-neo-m250/
+51299,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,350,,https://www.dns-shop.ru/product/1d8550133067d9cb/pk-dexp-atlas-h531/
+89499,без ОС,yes,Intel Core i3-13100F,4,4.5 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 3060,12 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/518c382857a9d582/pk-ardor-gaming-neo-m202/
+171999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/44e41081b543d582/pk-ardor-gaming-rage-h436/
+281999,без ОС,yes,AMD Ryzen 7 7800X3D,8,5 ГГц,AM5,32 ГБ,DDR5,6400 МГц,GeForce RTX 5070 Ti,16 ГБ,2048,AMD X870,1000,,https://www.dns-shop.ru/product/06813b60984ed9cb/pk-ardor-gaming-evo-x124/
+60799,без ОС,yes,Intel Core i3-12100F,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce GTX 1650,4 ГБ,500,Intel H610,500,,https://www.dns-shop.ru/product/5b8f00a276f0ed20/pk-ardor-gaming-neo-m144/
+179999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,2048,AMD B650,650,,https://www.dns-shop.ru/product/d149d7c49f2dd9cb/pk-ardor-gaming-rage-h433/
+137499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/fdb7efa78f8ed9cb/pk-ardor-gaming-rage-h426/
+6339971999,macOS,yes,Apple M4,10,,,16 ГБ,LPDDR5X,,Apple M4 10-core,,256,SoC,155,,https://www.dns-shop.ru/product/7646600a9823d21a/mini-pk-apple-mac-mini-m4-mu9d3/
+49999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/4cc08ecf7bf6d9cb/pk-dexp-aquilon-o347/
+150999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/224c6f62bb7ed9cb/pk-ardor-gaming-rage-h441/
+78999,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/03f88fbed7d5d582/pk-ardor-gaming-neo-m163/
+131499,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/6c968a8b799cd9cb/pk-ardor-gaming-rage-h417/
+228999,без ОС,yes,AMD Ryzen 7 7700,8,5.3 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070 Ti,16 ГБ,2048,AMD B650,850,,https://www.dns-shop.ru/product/7407fda0b544d582/pk-ardor-gaming-rage-h437/
+73299,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/1cfce5338f78d21a/pk-ardor-gaming-neo-m159/
+157999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/143fd794cb56d582/pk-ardor-gaming-rage-h453/
+75499,без ОС,yes,Intel Core i7-12700,12,4.9 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,Intel UHD Graphics 770,,1024,Intel B760,500,,https://www.dns-shop.ru/product/2f755b8b5e2dd582/pk-dexp-atlas-h551/
+34799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/a5cd841486d3d9cb/pk-dexp-aquilon-o348/
+114999,Windows 11 Pro,yes,Intel Core i9-12900H,14,5 ГГц,BGA 1744,32 ГБ,DDR5,4800 МГц,GeForce RTX 4060 для ноутбуков,8 ГБ,1024,SoC,300,,https://www.dns-shop.ru/product/666f48c3964e9a05/mini-pk-ardor-gaming-cyber-cube/
+45799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,500,,https://www.dns-shop.ru/product/53d49ce5a18bd9cb/pk-dexp-atlas-h489/
+34999,Windows 11 Pro,yes,AMD Ryzen 5 7430U,6,4.3 ГГц,FP6,16 ГБ,DDR4,3200 МГц,AMD Radeon RX Vega 7,,512,SoC,90В,,https://www.dns-shop.ru/product/766e0591d40ae078/mini-pk-chuwi-ubox-ubox-2025/
+49499,без ОС,yes,AMD Ryzen 7 5700G,8,4.6 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Vega 8,,500,AMD B550,400,,https://www.dns-shop.ru/product/ddea80feaea1ed20/pk-dexp-atlas-h430/
+48999,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel B760,500,,https://www.dns-shop.ru/product/27357a06a18fd9cb/pk-dexp-atlas-h490/
+94499,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 3050,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/1d09dc64046fd582/pk-ardor-gaming-neo-m175/
+46999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,500,AMD B550,500,,https://www.dns-shop.ru/product/6a10de3a56ffd582/pk-dexp-atlas-h549/
+63299,без ОС,yes,Intel Core i7-12700,12,4.9 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 770,,500,Intel B760,500,,https://www.dns-shop.ru/product/d2a22eb6758bd582/pk-dexp-atlas-h478/
+221999,без ОС,yes,AMD Ryzen 7 7700,8,5.3 ГГц,AM5,32 ГБ,DDR5,6400 МГц,GeForce RTX 4070 Ti SUPER,16 ГБ,1024,AMD B650,850,,https://www.dns-shop.ru/product/e7bb6bede51bd9cb/pk-ardor-gaming-evo-x098/
+47999,без ОС,yes,AMD Ryzen 7 5700G,8,4.6 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Graphics,,512,AMD B550,500,,https://www.dns-shop.ru/product/aff91865b772d9cb/pk-dexp-atlas-h504/
+142999,Windows 11 Pro,yes,Intel Core i5-14600KF,14,5.3 ГГц,LGA 1700,32 ГБ,DDR5,5600 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/18acc031373235fb/pk-teclast-g03-1747125/
+32999,Windows 11 Pro,yes,Intel Core i3-N305,8,0 ГГц,BGA 1264,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics,,1024,SoC,48В,,https://www.dns-shop.ru/product/55ec604f099aa14c/mini-pk-keyron-sonnet/
+58299,Windows 11 Pro,yes,Intel Core i7-13620H,10,4.9 ГГц,BGA 1744,16 ГБ,LPDDR5,4800 МГц,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/5b5fd216a03f99de/mini-pk-chuwi-corebox-1747095/
+43999,без ОС,yes,Intel Core i5-11400,6,4.4 ГГц,LGA 1200,16 ГБ,DDR4,,Intel UHD Graphics 730,,500,Intel B560,350,,https://www.dns-shop.ru/product/12e26953549ed9cb/pk-dexp-atlas-h462/
+64999,Windows 11 Pro,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,120,,https://www.dns-shop.ru/product/d8eb74b36032d582/mini-pk-msi-pro-dp21-13m-848ru-9s6-b0a421-848/
+23699,без ОС,yes,Intel Pentium Gold G6405,2,4.1 ГГц,LGA 1200,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 610,,256,Intel H470,350,,https://www.dns-shop.ru/product/41e04344d880d9cb/pk-dexp-aquilon-o315/
+62999,без ОС,yes,Intel Core i5-12500H,12,4.5 ГГц,BGA 1744,8 ГБ,DDR5,4800 МГц,Intel Iris Xe Graphics,,256,SoC,120,,https://www.dns-shop.ru/product/399ad23b1ecded20/mini-pk-asus-expertcenter-pn64-s5434md-90ms02g1-m00dk0/
+64999,Windows 11 Pro,yes,Intel Core 5-120U,10,5 ГГц,BGA 1744,16 ГБ,DDR5,,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/f6ca45f56036d582/mini-pk-msi-cubi-nuc-1m-098ru-9s6-b0b111-098/
+36999,без ОС,yes,Intel Core i5-12450H,8,4.4 ГГц,BGA 1744,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/de63b78fb30ad4bc/mini-pk-machcreator-mix-i5-jj024l009ru/
+48299,Windows 11 Pro,yes,Intel Core i5-12500H,12,4.5 ГГц,BGA 1744,8 ГБ,DDR5,4800 МГц,Intel Iris Xe Graphics,,256,SoC,120,,https://www.dns-shop.ru/product/edf4de7a1ecded20/mini-pk-asus-expertcenter-pn64-s5435ad-90ms02g1-m00dl0/
+40799,Windows 11 Pro,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,90В,,https://www.dns-shop.ru/product/3e1ac1c643d3d0a4/mini-pk-rombica-blackbird-i3-t121165p-pcmi-0337/
+38999,без ОС,yes,Intel Core i3-1315U,6,4.5 ГГц,BGA 1744,8 ГБ,DDR4,,Intel UHD Graphics,,,SoC,120,,https://www.dns-shop.ru/product/761d94b4eca7ed20/mini-pk-msi-pro-dp10-13m-223xru-9s6-b0a612-223/
+256999,без ОС,yes,Intel Core i7-13700F,16,5.2 ГГц,LGA 1700,32 ГБ,DDR5,4800 МГц,GeForce RTX 4070 Ti,12 ГБ,1024,Intel H770,800,,https://www.dns-shop.ru/product/381466c334f8ed20/pk-acer-predator-po5-650-dge3acd00a/
+66299,без ОС,yes,AMD Ryzen 7 5700G,8,4.6 ГГц,AM4,32 ГБ,DDR4,3200 МГц,AMD Radeon Vega 8,,1024,AMD B550,500,,https://www.dns-shop.ru/product/888303b8c35ed582/pk-dexp-atlas-h565/
+250999,без ОС,yes,Intel Core i7-13700KF,16,5.4 ГГц,LGA 1700,32 ГБ,DDR4,,GeForce RTX 4080,16 ГБ,1024,Intel B760,850,,https://www.dns-shop.ru/product/f47d273b537ded20/pk-asus-rog-strix-g16ch-1370kf0440-90pf03w2-m00x30/
+36299,без ОС,yes,Intel Core i3-1315U,6,4.5 ГГц,BGA 1744,8 ГБ,DDR4,,Intel UHD Graphics,,256,SoC,120,,https://www.dns-shop.ru/product/8b8d804deca7ed20/mini-pk-msi-pro-dp10-13m-050xru-9s6-b0a611-092/
+45499,,yes,AMD Ryzen 5 7535HS,,,FP7,,DDR5,,,использует системную,,,150,,https://www.dns-shop.ru/product/f48cbf575483d582/platforma-asus-expertcenter-pn53-b-s5093md/
+46299,без ОС,yes,Intel Core i3-1215U,6,4.4 ГГц,BGA 1744,8 ГБ,DDR4,,Intel UHD Graphics,,256,SoC,65В,,https://www.dns-shop.ru/product/15dddc1c4a2bd582/mini-pk-lenovo-thinkcentre-neo-50q-gen-4-12ln003kum/
+259999,без ОС,yes,AMD Ryzen 7 9700X,8,5.5 ГГц,AM5,32 ГБ,DDR5,5600 МГц,Radeon RX 9070 XT,16 ГБ,1024,AMD B650,850,,https://www.dns-shop.ru/product/c0494bd191ddd582/pk-asus-gm700tz-r9700x0570-90pf05t1-m01140/
+33299,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,,Intel H610,300,,https://www.dns-shop.ru/product/4a1f29a2965dd582/mini-pk-iru-office-310h6s-sff-2061129/
+109999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/55dae111cb24d582/pk-ardor-gaming-neo-m245/
+31499,Windows 10 Pro,yes,AMD Ryzen 5 3500U,4,,FP5,16 ГБ,DDR4,,AMD Radeon Vega 6,,512,,72В,,https://www.dns-shop.ru/product/44a843e4de18d582/mini-pk-azerty-az-0025-16-512-3500-120-0869/
+42999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Vega 7,,256,AMD A520,350,,https://www.dns-shop.ru/product/c6bc32dd03b5d9cb/pk-dexp-aquilon-o321/
+53299,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H670,180,,https://www.dns-shop.ru/product/9655439d501108b3/pk-hp-pro-290-g9-sff-883n3ea/
+32799,без ОС,yes,Intel Pentium Gold G7400,2,0 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 710,,512,Intel H610,400,,https://www.dns-shop.ru/product/6d19bf65a6ebd582/pk-dexp-aquilon-o312/
+99999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,16 ГБ,DDR5,5600 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/31110fe4d66cd9cb/pk-ardor-gaming-neo-m255/
+22199,Windows 11 Pro,yes,Intel Celeron N5095,4,2.9 ГГц,BGA 1090,8 ГБ,DDR4,,Intel UHD Graphics,,,,60В,,https://www.dns-shop.ru/product/444bdea6de14d582/mini-pk-azerty-az-0016-8-256-120-0701/
+48999,без ОС,yes,AMD Ryzen 7 5700G,8,4.6 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Vega 8,,500,AMD B550,500,,https://www.dns-shop.ru/product/98c367895953d582/pk-dexp-atlas-h464/
+356999,без ОС,yes,Intel Core i7-13700KF,16,5.4 ГГц,LGA 1700,32 ГБ,DDR5,,GeForce RTX 4080,16 ГБ,1024,Intel Z790,850,,https://www.dns-shop.ru/product/6ffae920537ded20/pk-asus-rog-strix-g35ca-1370kf0440-90pf03u1-m00me0/
+16599,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,8 ГБ,LPDDR5,,Intel UHD Graphics,,256,SoC,30В,,https://www.dns-shop.ru/product/1a2b1ed243d3d0a4/mini-pk-rombica-horizon-n10-gn1082p-pcmi-0111/
+19999,без ОС,yes,AMD Athlon PRO 300GE,2,0 ГГц,AM4,8 ГБ,DDR4,3200 МГц,AMD Radeon Vega 3,,256,AMD A520,200,,https://www.dns-shop.ru/product/7eeb501e9e5dd9cb/pk-dexp-aquilon-o351/
+61299,без ОС,yes,Intel Core i5-13400,10,4.6 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,1024,Intel B760,500,,https://www.dns-shop.ru/product/303c37fdbcf4d582/pk-dexp-atlas-h505/
+84999,Windows 11 Pro,yes,Intel Core i5-13400,10,4.6 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,,Intel H610,120,,https://www.dns-shop.ru/product/50354f2b6032d582/mini-pk-msi-pro-dp21-13m-861ru-9s6-b0a421-861/
+101499,без ОС,yes,Intel Core i3-13100F,4,4.5 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,GeForce RTX 4060,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/030c0d8d320ad582/pk-ardor-gaming-neo-m148/
+55299,без ОС,yes,Intel Core 5-120U,10,5 ГГц,BGA 1744,8 ГБ,DDR5,,Intel UHD Graphics,,,SoC,120,,https://www.dns-shop.ru/product/6c7d49676038d582/mini-pk-msi-cubi-nuc-1m-096xru-9s6-b0b111-096/
+34799,без ОС,yes,Intel Core i3-1220P,10,4.4 ГГц,BGA 1744,8 ГБ,DDR5,4800 МГц,Intel UHD Graphics,,256,SoC,90В,,https://www.dns-shop.ru/product/8d2dd6ca1ec9ed20/mini-pk-asus-expertcenter-pn64-s3433md-90ms02g1-m00dj0/
+221999,без ОС,yes,AMD Ryzen 7 7700,8,5.3 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5070,12 ГБ,2048,AMD B650,850,,https://www.dns-shop.ru/product/6e48700db554d582/pk-ardor-gaming-rage-h438/
+69299,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,32 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,1024,Intel B760,500,,https://www.dns-shop.ru/product/25b764b4b485d582/pk-dexp-atlas-h563/
+314999,Windows 11 Home,yes,Intel Core Ultra 7 265K,20,5.5 ГГц,LGA 1851,32 ГБ,DDR5,5600 МГц,GeForce RTX 4070 Ti SUPER,16 ГБ,2048,Intel Z890,850,,https://www.dns-shop.ru/product/34892a067af1d9cb/pk-msi-mpg-infinite-x3-ai-2nuf7-007ru-9s6-b94211-007/
+71499,без ОС,yes,Intel Core i5-14400T,10,4.5 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,Intel UHD Graphics 730,,512,Intel Q670,135,,https://www.dns-shop.ru/product/1928a5140e2705c7/mini-pk-lenovo-thinkcentre-tiny-m70q-g5-12tesf4d00/
+49999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,480,Intel H610,400,,https://www.dns-shop.ru/product/fbf5531ac445d9cb/pk-dexp-aquilon-o360/
+53999,без ОС,yes,Intel Core i5-13400,10,4.6 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel B760,500,,https://www.dns-shop.ru/product/75a308637588d582/pk-dexp-atlas-h477/
+35799,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,4 ГБ,DDR4,,Intel UHD Graphics,,128,SoC,65В,,https://www.dns-shop.ru/product/90f68048eca7ed20/mini-pk-msi-cubi-n-adl-019ru-9s6-b0a911-059/
+41299,Windows 11 Pro,yes,AMD Ryzen 7 5700U,8,4.3 ГГц,FP6,16 ГБ,DDR4,3200 МГц,AMD Radeon RX Vega 8,,512,SoC,72В,,https://www.dns-shop.ru/product/c0998a46de1ad582/mini-pk-azerty-az-0034-16-512-120-0702/
+83799,Windows 11 Pro,yes,AMD Ryzen 5 5600H,6,4.2 ГГц,FP6,8 ГБ,DDR4,,AMD Radeon Graphics,,256,SoC,120,,https://www.dns-shop.ru/product/ec609ddd1ed8ed20/mini-pk-asus-expertcenter-pn52-s5150ad-90ms02f1-m004p0/
+46799,без ОС,yes,Intel Pentium Gold G7400,2,0 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 710,,,Intel B660,400,,https://www.dns-shop.ru/product/ac127588b5e0d582/pk-iru-opal-612-mt-2049324/
+46999,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,8 ГБ,DDR5,5600 МГц,Intel UHD Graphics 730,,512,Intel B760,180,,https://www.dns-shop.ru/product/756ef803e81eed20/mini-pk-asus-expertcenter-d5-d500ser-3131000040-90pf0401-m01wv0/
+40499,Windows 11 Pro,yes,Intel Pentium Gold G7400,2,0 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 710,,256,Intel H610,120,,https://www.dns-shop.ru/product/3bf13df6b72bed20/mini-pk-msi-pro-dp21-13m-619ru-9s6-b0a421-619/
+41999,Windows 11 Pro,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Vega 7,,512,,90В,,https://www.dns-shop.ru/product/c710a276d1008f16/mini-pk-rikor-1021-d51ca4b7/
+40799,Windows 11 Pro,yes,Intel Core i5-1340P,12,4.6 ГГц,BGA 1744,8 ГБ,DDR4,,Intel Iris Xe Graphics,,512,SoC,60В,,https://www.dns-shop.ru/product/3822ca4c43d3d0a4/mini-pk-rombica-blackbird-i5-q134p85p-pcmi-0334/
+37799,без ОС,yes,Intel Core i3-1315U,6,4.5 ГГц,BGA 1744,8 ГБ,DDR5,5600 МГц,Intel UHD Graphics,,256,SoC,180,,https://www.dns-shop.ru/product/87c69577df78d9cb/pk-asus-v500-v500mv-31315u0170-90pf05r1-m00hl0/
+18699,Windows 11 Pro,yes,Intel Celeron N5105,4,2.9 ГГц,BGA 1338,8 ГБ,LPDDR4,,Intel UHD Graphics,,256,SoC,30В,,https://www.dns-shop.ru/product/189b647da8a6d21a/mini-pk-irbis-isdp1001yx/
+36499,Windows 11 Pro,yes,Intel Core i5-1335U,10,4.6 ГГц,BGA 1744,8 ГБ,DDR4,,Intel Iris Xe Graphics,,256,SoC,60В,,https://www.dns-shop.ru/product/3822c89b43d3d0a4/mini-pk-rombica-blackbird-i5-q133u82p-pcmi-0333/
+28499,Windows 10 Pro,yes,Intel Celeron N5095,4,2.9 ГГц,BGA 1090,16 ГБ,DDR4,,Intel UHD Graphics,,,,60В,,https://www.dns-shop.ru/product/b995b953de13d582/mini-pk-azerty-az-0016-16-512-120-0322/
+23399,без ОС,yes,Intel N100,4,,BGA 1264,8 ГБ,DDR4,,Intel UHD Graphics,,,SoC,30В,,https://www.dns-shop.ru/product/9c30438c545ad9cb/mini-pk-iru-110alcn-2012483/
+38299,Windows 11 Pro,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,8 ГБ,DDR4,,AMD Radeon Vega 7,,256,,90В,,https://www.dns-shop.ru/product/033d5ed8243aef08/mini-pk-rikor-1021-2d2c97e5/
+44999,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,90В,,https://www.dns-shop.ru/product/03df9140e56bb118/mini-pk-rikor-1011-0b210550/
+30299,Windows 10 Pro,yes,AMD Ryzen 5 3500U,4,,FP5,8 ГБ,DDR4,,AMD Radeon Vega 6,,256,,72В,,https://www.dns-shop.ru/product/0882ccccde17d582/mini-pk-azerty-az-0025-8-128-3500-120-0867/
+43499,без ОС,yes,Intel Core i3-10100,4,4.3 ГГц,LGA 1200,8 ГБ,DDR4,,Intel UHD Graphics 630,,512,Intel B560,400,,https://www.dns-shop.ru/product/0b458bef9027d582/pk-iru-opal-513-mt-1862286/
+294999,Windows 11 Home Single Language,yes,AMD Ryzen 7 7800X3D,8,5 ГГц,AM5,32 ГБ,DDR5,6400 МГц,GeForce RTX 4080,16 ГБ,2048,AMD B650,850,,https://www.dns-shop.ru/product/0c8b1c08de11d9cb/pk-ardor-gaming-evo-x091/
+442999,Windows 11 Home Single Language,yes,Intel Core i9-12900K,16,5.2 ГГц,LGA 1700,64 ГБ,DDR4,,GeForce RTX 3080 Ti,12 ГБ,1024,Intel Z690,800,,https://www.dns-shop.ru/product/11a3236fedd18b47/pk-hp-omen-gt22-0005ur-5d449ea/
+117999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 5060,8 ГБ,1024,Intel B760,500,,https://www.dns-shop.ru/product/121ed76dd647d9cb/pk-ardor-gaming-neo-m252/
+264999,без ОС,yes,Intel Core i7-12700KF,12,5 ГГц,LGA 1700,32 ГБ,DDR4,,GeForce RTX 4070 Ti,12 ГБ,,Intel Z790,850,,https://www.dns-shop.ru/product/123415a45463d9cb/pk-iru-game-517ec-twr-1921000/
+112499,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/6225f3269f2cd9cb/pk-ardor-gaming-neo-m220/
+467999,без ОС,yes,Intel Core Ultra 9 285K,24,5.7 ГГц,LGA 1851,64 ГБ,DDR5,5600 МГц,GeForce RTX 5080,16 ГБ,3072,Intel Z890,1200,,https://www.dns-shop.ru/product/2b88dbc37421d582/pk-msi-mpg-infinite-x3-ai-2nvv9-646xru-9s6-b94211-646/
+178999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6400 МГц,GeForce RTX 4070 SUPER,12 ГБ,1024,AMD B650,850,,https://www.dns-shop.ru/product/75f8d1f0ee70d9cb/pk-ardor-gaming-rage-h378/
+148999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 4060 Ti,8 ГБ,1524,Intel B760,650,,https://www.dns-shop.ru/product/e1570b23fe4ed9cb/pk-ardor-gaming-rage-h385/
+122499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/61951407aaf6d582/pk-ardor-gaming-neo-m224/
+48999,без ОС,yes,AMD Ryzen 7 5700G,8,4.6 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 8,,512,AMD B550,500,,https://www.dns-shop.ru/product/b8367e0fd2f3d9cb/pk-dexp-atlas-h517/
+22699,без ОС,yes,Intel Pentium Gold G6405,2,0 ГГц,LGA 1200,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 610,,256,Intel H470,350,,https://www.dns-shop.ru/product/6d0f516f1f20d582/pk-dexp-aquilon-o328/
+34799,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/fb7372ffa6ecd582/pk-dexp-atlas-h494/
+19599,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,8 ГБ,LPDDR5,,Intel UHD Graphics,,256,SoC,30В,,https://www.dns-shop.ru/product/3443269cff3d8653/mini-pk-dexp-aquilon-aq01cy/
+32999,Windows 11 Pro,yes,Intel Core i3-1215U,6,4.4 ГГц,BGA 1744,16 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,65В,,https://www.dns-shop.ru/product/c4c66c5eedc62079/mini-pk-dexp-atlas-at02cy/
+37799,Windows 11 Home,yes,Intel Core i5-12450H,8,4.4 ГГц,BGA 1744,16 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/0647176d89d3ed20/mini-pk-tecno-mega-mini-m1-71003300214/
+15499,без ОС,yes,Intel Celeron N4120,4,2.6 ГГц,BGA 1090,8 ГБ,DDR4,,Intel UHD Graphics 600,,256,SoC,200,,https://www.dns-shop.ru/product/116b2f4b03aad582/pk-dexp-aquilon-o319/
+33799,без ОС,yes,AMD Ryzen 3 3200G,4,4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 8,,480,AMD A520,500,,https://www.dns-shop.ru/product/a245743ea98dd582/pk-dexp-aquilon-o353/
+20599,без ОС,yes,AMD Athlon 300GE,2,0 ГГц,AM4,8 ГБ,DDR4,3200 МГц,AMD Radeon Vega 3,,256,AMD A520,200,,https://www.dns-shop.ru/product/55e9685f03afd582/pk-dexp-aquilon-o320/
+299999,без ОС,yes,Intel Core Ultra 7 265F,20,5.3 ГГц,LGA 1851,32 ГБ,DDR5,5600 МГц,GeForce RTX 5080,16 ГБ,1024,Intel B860,850,,https://www.dns-shop.ru/product/1dc0fefb8709d9cb/pk-asus-rog-g700tf-07265f0500-90pf0561-m01b20/
+132999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/0cff84e9a34cd582/pk-ardor-gaming-neo-m223/
+79999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,GeForce RTX 3050,6 ГБ,512,Intel B760,500,,https://www.dns-shop.ru/product/d8047a6587bdd582/pk-dexp-mars-e316/
+127499,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,GeForce RTX 4060 Ti,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/c1a4553e7e13ed20/pk-ardor-gaming-rage-h332/
+45999,Windows 11 Pro,yes,AMD Ryzen7 5700U,8,4.3 ГГц,FP6,16 ГБ,DDR4,3200 МГц,AMD Radeon RX Vega 8,,256,SoC,72В,,https://www.dns-shop.ru/product/73fcfae6de1bd582/mini-pk-azerty-az-0034-16-256-120-0703/
+89999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,16 ГБ,DDR5,5600 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/c2acf442d647d9cb/pk-ardor-gaming-neo-m253/
+43499,Windows 11 Pro,yes,Intel Core i3-1220P,10,4.4 ГГц,BGA 1744,8 ГБ,DDR5,4800 МГц,Intel UHD Graphics,,256,SoC,90В,,https://www.dns-shop.ru/product/8a53bebe1ecbed20/mini-pk-asus-expertcenter-pn64-s3432ad-90ms02g1-m00dh0/
+178999,без ОС,yes,Intel Core i5-11400F,6,4.4 ГГц,LGA 1200,16 ГБ,DDR4,,GeForce RTX 3070,8 ГБ,1024,Intel B560,650,,https://www.dns-shop.ru/product/a887fe5a0e876598/pk-lenovo-legion-t5-26iob6-90rt00unrs/
+32799,без ОС,yes,Intel Core i5-11400,6,4.4 ГГц,LGA 1200,8 ГБ,DDR4,,Intel UHD Graphics 730,,256,Intel B560,400,,https://www.dns-shop.ru/product/affb114d6ffdd9cb/pk-dexp-atlas-h473/
+50999,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,8 ГБ,DDR5,,Intel UHD Graphics 730,,256,Intel B760,150,,https://www.dns-shop.ru/product/fead0459794fd21a/mini-pk-asus-expertcenter-pb63-b3460mh-90ms02r1-m00ed0/
+152999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,8 ГБ,1024,AMD B850,650,,https://www.dns-shop.ru/product/3b789292c991d9cb/pk-ardor-gaming-rage-h445/
+29999,Windows 10 Pro,yes,AMD Ryzen 3 3300U,4,3.5 ГГц,FP5,16 ГБ,DDR4,,AMD Radeon Vega 6,,,,60В,,https://www.dns-shop.ru/product/702f1058de16d582/mini-pk-azerty-az-0025-16-512-120-0522/
+50999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,480,Intel H610,500,,https://www.dns-shop.ru/product/b8778e07cbfdd582/pk-dexp-aquilon-o362/
+35799,Windows 11 Pro,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,256,Intel H610,90В,,https://www.dns-shop.ru/product/3e1ac01543d3d0a4/mini-pk-rombica-blackbird-i3-t12182p-pcmi-0336/
+139499,без ОС,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,16 ГБ,DDR5,,GeForce RTX 4060 Ti,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/261766c77633d582/pk-fragmachine-liquid-5106-173181/
+44999,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,90В,,https://www.dns-shop.ru/product/3e1ac37743d3d0a4/mini-pk-rombica-blackbird-i5-t124165p-pcmi-0338/
+62999,без ОС,yes,Intel Core Ultra 5 125H,14,4.5 ГГц,BGA 2049,16 ГБ,DDR5,5600 МГц,Intel Arc Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/0d5bf2c37666d582/mini-pk-msi-cubi-nuc-ai-1umg-043xru-9s6-b20911-043/
+32299,Windows 11 Pro,yes,AMD Ryzen 3 5300U,4,3.8 ГГц,FP6,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 6,,,,72В,,https://www.dns-shop.ru/product/4df5e0afde1cd582/mini-pk-azerty-az-0035-16-512-120-0704/
+53299,Windows 11 Pro,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,256,Intel H610,120,,https://www.dns-shop.ru/product/262921e943d3d0a4/mini-pk-rombica-whitebird-i3-wx13182p-pcmi-0353/
+75799,Windows 11 Pro,yes,Intel Core i5-13400,10,4.6 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,120,,https://www.dns-shop.ru/product/2629239a43d3d0a4/mini-pk-rombica-whitebird-i5-wx134165p-pcmi-0354/
+38999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/2812cf68c440d9cb/pk-dexp-aquilon-o359/
+107999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,16 ГБ,DDR5,5600 МГц,GeForce RTX 5060,8 ГБ,1024,AMD A620,500,,https://www.dns-shop.ru/product/60e4992bd4c3d582/pk-ardor-gaming-neo-m249/
+224999,Windows 11 Pro,yes,Intel Core i7-14700F,20,5.4 ГГц,LGA 1700,32 ГБ,DDR5,5600 МГц,GeForce RTX 5070 Ti,16 ГБ,1024,Intel B760,750,,https://www.dns-shop.ru/product/422847cc1ca3f83c/pk-teclast-g03-1747128/
+159999,Windows 11 Pro,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,4800 МГц,GeForce RTX 5070,12 ГБ,1024,AMD B650,750,,https://www.dns-shop.ru/product/2c2ade5ba71f4bcd/pk-teclast-g03-1747133/
+141999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,GeForce RTX 4060 Ti,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/facb4e1860f4d9cb/pk-ardor-gaming-rage-h351/
+342999,Windows 11 Home,yes,Intel Core i7-14700F,20,5.4 ГГц,LGA 1700,64 ГБ,DDR5,4800 МГц,GeForce RTX 5080,16 ГБ,1024,Intel Z790,850,,https://www.dns-shop.ru/product/a756e24d5327d0a4/pk-bloody-bd-pc-cz79c3-2086028/
+78299,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/2248eea32adfd9cb/pk-ardor-gaming-neo-m185/
+78999,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/a594620df415d582/pk-ardor-gaming-neo-m169/
+67299,без ОС,yes,Intel Core i3-12100F,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,GeForce RTX 3050,6 ГБ,500,Intel H610,500,,https://www.dns-shop.ru/product/c6e24b7905fbd582/pk-dexp-mars-g007/
+178999,без ОС,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,32 ГБ,DDR5,6400 МГц,GeForce RTX 4070 SUPER,12 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/b96dc49aee73d9cb/pk-ardor-gaming-rage-h379/
+25999,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,16 ГБ,DDR4,,Intel UHD Graphics,,500,SoC,36В,,https://www.dns-shop.ru/product/5cd66bac3d94d9cb/mini-pk-beelink-mini-s12-pro-00021/
+349999,без ОС,yes,AMD Ryzen 7 9800X3D,8,5.2 ГГц,AM5,32 ГБ,DDR5,,GeForce RTX 5070 Ti,16 ГБ,2048,AMD B850,850,,https://www.dns-shop.ru/product/4c439f827422d582/pk-msi-mpg-infinite-z3-x3dnvrr7-648xru-9s6-b94221-648/
+47999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/46acabf6ef5cd9cb/pk-dexp-atlas-h525/
+50799,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,500,,https://www.dns-shop.ru/product/22f45a87990ad9cb/pk-dexp-atlas-h561/
+49799,Windows 11 Pro,yes,Intel Core i5-12450H,8,4.4 ГГц,BGA 1744,16 ГБ,LPDDR5,4800 МГц,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/27d12a543347d582/mini-pk-chuwi-corebox-1746514/
+39499,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,500,,https://www.dns-shop.ru/product/a3da1f9a31f9d582/pk-dexp-atlas-h532/
+85499,без ОС,yes,Intel Core i3-13100F,4,4.5 ГГц,LGA 1700,16 ГБ,DDR5,5600 МГц,GeForce RTX 3050,8 ГБ,500,Intel B760,500,,https://www.dns-shop.ru/product/925d4278518fd582/pk-ardor-gaming-neo-m199/
+132499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,8 ГБ,1024,AMD B850,650,,https://www.dns-shop.ru/product/12163f0ec992d9cb/pk-ardor-gaming-rage-h446/
+378999,без ОС,yes,AMD Ryzen 7 9800X3D,8,5.2 ГГц,AM5,64 ГБ,DDR5,6000 МГц,GeForce RTX 5080,16 ГБ,2048,AMD B850,1000,,https://www.dns-shop.ru/product/b0fa2e19cb2ed9cb/pk-ardor-gaming-evo-x133/
+45999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/0ead0a2d5946d582/pk-dexp-atlas-h463/
+68999,Windows 11 Pro,yes,AMD Ryzen 7 8745HS,8,4.9 ГГц,FP8,32 ГБ,DDR5,5600 МГц,AMD Radeon 780M,,1024,SoC,120,,https://www.dns-shop.ru/product/e57707e7c8c61b71/mini-pk-chuwi-aubox-1747229/
+129999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/eafefe76bb7ad9cb/pk-ardor-gaming-neo-m235/
+117999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,16 ГБ,DDR5,5200 МГц,GeForce RTX 4060,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/61353a82841fed20/pk-ardor-gaming-rage-h335/
+43299,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,,AMD Radeon Vega 7,,256,AMD B550,350,,https://www.dns-shop.ru/product/49b7a3febcf5d582/pk-dexp-atlas-h506/
+196999,без ОС,yes,Intel Core i5-14600KF,14,5.3 ГГц,LGA 1700,32 ГБ,DDR5,5600 МГц,GeForce RTX 4070 SUPER,12 ГБ,1524,Intel Z790,850,,https://www.dns-shop.ru/product/c273f9eaee6cd9cb/pk-ardor-gaming-rage-h358/
+35799,Windows 11 Pro,yes,Intel Core i5-1235U,10,4.4 ГГц,BGA 1744,16 ГБ,DDR4,3200 МГц,Intel Iris Xe Graphics,,512,SoC,65В,,https://www.dns-shop.ru/product/89f84d47c0dcc1a9/mini-pk-dexp-mars-ma01he/
+57299,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,1024,Intel H610,500,,https://www.dns-shop.ru/product/8391feb78311d582/pk-dexp-atlas-h557/
+53999,Windows 11 Pro,yes,Intel Core i5-13500H,12,4.7 ГГц,BGA 1744,16 ГБ,DDR5,3200 МГц,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/c56d54dec8b46b72/mini-pk-acer-gadget-e10-etbox1-1747234/
+328999,Windows 11 Home,yes,Intel Core i7-13700KF,16,5.4 ГГц,LGA 1700,64 ГБ,DDR5,4800 МГц,GeForce RTX 5080,16 ГБ,1024,Intel Z790,850,,https://www.dns-shop.ru/product/954aeece5327d0a4/pk-bloody-bd-pc-cz79c3-2086027/
+40999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,512,AMD B550,400,,https://www.dns-shop.ru/product/bd3c9c3a549cd9cb/pk-dexp-atlas-h461/
+57299,Windows 11 Pro,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/cb1caa8cb2a5d582/pk-dexp-atlas-h500/
+126499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/92e1248aaafad582/pk-ardor-gaming-neo-m227/
+18999,Windows 11 Pro,yes,Intel Celeron N5095,4,2.9 ГГц,BGA 1338,8 ГБ,DDR4,,Intel UHD Graphics,,128,SoC,36В,,https://www.dns-shop.ru/product/4d6765ef3d93d9cb/mini-pk-beelink-mini-s-00014/
+164999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/8cb974fbbb7bd9cb/pk-ardor-gaming-rage-h439/
+129999,без ОС,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,32 ГБ,DDR5,5600 МГц,GeForce RTX 5060,8 ГБ,1024,Intel H610,500,,https://www.dns-shop.ru/product/1fcd2d707425d582/pk-msi-mag-infinite-s3-14nvl5-3077xru-9s6-b93851-3077/
+159999,Windows 11 Pro,yes,Intel Core i5-14400F,10,4.7 ГГц,LGA 1700,32 ГБ,DDR4,3200 МГц,GeForce RTX 5070,12 ГБ,1024,Intel H610,750,,https://www.dns-shop.ru/product/98eb416b216c80fa/pk-teclast-g03-1747122/
+44999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,350,,https://www.dns-shop.ru/product/24d94c27a29ad582/pk-dexp-atlas-h562/
+57299,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,1024,Intel H610,350,,https://www.dns-shop.ru/product/5477a35c8b83d9cb/pk-dexp-atlas-h486/
+140999,без ОС,yes,Intel Core i5-13400F,10,4.6 ГГц,LGA 1700,32 ГБ,DDR5,6000 МГц,GeForce RTX 4060,8 ГБ,1024,Intel B760,650,,https://www.dns-shop.ru/product/b9200eee1a92d9cb/pk-ardor-gaming-rage-h394/
+126999,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/4f4d9da9b545d582/pk-ardor-gaming-neo-m234/
+81999,без ОС,yes,AMD Ryzen 5 5600,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,GeForce RTX 5050,8 ГБ,1024,AMD A520,500,,https://www.dns-shop.ru/product/b60a7141b469d582/pk-ardor-gaming-neo-m231/
+48999,без ОС,yes,AMD Ryzen 7 5700G,8,4.6 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 8,,500,AMD B550,500,,https://www.dns-shop.ru/product/c3de422b5164d582/pk-dexp-atlas-h547/
+38999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/cb6fd8089cb9d9cb/pk-dexp-aquilon-o311/
+42799,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/9517830062ced582/pk-dexp-aquilon-o341/
+20299,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,8 ГБ,DDR4,,Intel UHD Graphics,,256,SoC,36В,,https://www.dns-shop.ru/product/80c17395c6c1eed8/mini-pk-dexp-mini-entry/
+132499,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/249250e3895dd9cb/pk-ardor-gaming-neo-m214/
+105499,без ОС,yes,AMD Ryzen 5 8400F,6,4.7 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5050,8 ГБ,1024,AMD B650,500,,https://www.dns-shop.ru/product/49e49f50c684d582/pk-ardor-gaming-neo-m240/
+47999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,256,Intel H610,350,,https://www.dns-shop.ru/product/8c2219c9693ad9cb/pk-dexp-aquilon-o343/
+13799,без ОС,yes,Intel Celeron J4125,4,2.7 ГГц,BGA 1090,8 ГБ,DDR4,,Intel UHD Graphics 600,,256,SoC,120,,https://www.dns-shop.ru/product/72dfb3c7ac8dd9cb/mini-pk-inferit-micro-infr0748/
+65499,без ОС,yes,Intel Core i5-13420H,8,4.6 ГГц,BGA 1744,16 ГБ,DDR5,5600 МГц,Intel UHD Graphics,,512,SoC,180,,https://www.dns-shop.ru/product/21398bf1df72d582/pk-asus-expertcenter-p500-p500mv-13420h1780-90pf05i1-m00x00/
+51999,без ОС,yes,Intel Core i5-12400,6,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,500,Intel H610,350,,https://www.dns-shop.ru/product/2aaa658b249ad9cb/pk-dexp-atlas-h530/
+150999,без ОС,yes,AMD Ryzen 5 7500F,6,5 ГГц,AM5,32 ГБ,DDR5,6000 МГц,GeForce RTX 5060 Ti,16 ГБ,1024,AMD B650,650,,https://www.dns-shop.ru/product/be5c8562bb7dd9cb/pk-ardor-gaming-rage-h440/
+45999,без ОС,yes,AMD Ryzen 5 5600G,6,4.4 ГГц,AM4,16 ГБ,DDR4,3200 МГц,AMD Radeon Vega 7,,512,AMD B550,500,,https://www.dns-shop.ru/product/696df91fd2f0d9cb/pk-dexp-atlas-h516/
+48999,Windows 11 Pro,yes,Intel Core i7-12650H,10,4.7 ГГц,BGA 1744,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/f38d95bc1f7171e7/mini-pk-dexp-jupiter-ju01cy/
+39799,Linux,yes,AMD Ryzen 7 4800H,8,4.2 ГГц,FP6,16 ГБ,DDR4,,AMD Radeon RX Vega 7,,512,SoC,65В,,https://www.dns-shop.ru/product/3d0a731ceb19ed20/mini-pk-maibenbenpc40-pc4000f0lg0e0/
+38999,без ОС,yes,Intel Core i3-12100,4,4.3 ГГц,LGA 1700,8 ГБ,DDR4,3200 МГц,Intel UHD Graphics 730,,512,Intel H610,350,,https://www.dns-shop.ru/product/3ff3e29f830fd9cb/pk-dexp-atlas-h556/
+100499,Windows 11 Pro,yes,Intel Core 7-150U,10,5.4 ГГц,BGA 1744,16 ГБ,DDR5,,Intel UHD Graphics,,,SoC,120,,https://www.dns-shop.ru/product/e83643626035d582/mini-pk-msi-cubi-nuc-1m-095ru-9s6-b0b111-095/
+26999,Windows 11 Pro,yes,Intel Celeron N5095,4,2.9 ГГц,BGA 1338,16 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,36В,,https://www.dns-shop.ru/product/f856c6abf278d582/mini-pk-beelink-mini-s-00032/
+39799,без ОС,yes,Intel Core i5-1235U,10,4.4 ГГц,BGA 1744,8 ГБ,DDR4,,Intel UHD Graphics,,512,SoC,120,,https://www.dns-shop.ru/product/75890885eca7ed20/mini-pk-msi-pro-dp10-12m-222xru-9s6-b0a622-222/
+94999,без ОС,yes,Intel Core i5-12400F,6,4.4 ГГц,LGA 1700,16 ГБ,,,GeForce RTX 4060,8 ГБ,1024,,550,,https://www.dns-shop.ru/product/16216bac45699a15/pk-osio-cyberline-s59i-003b/
+71999,Windows 11 Pro,yes,Intel Core i5-13400,10,4.6 ГГц,LGA 1700,16 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,90В,,https://www.dns-shop.ru/product/4417c0bf43d3d0a4/mini-pk-rombica-blackbird-i5-t134165p-pcmi-0340/
+39799,Windows 11 Pro,yes,Intel Core i5-12450H,8,4.4 ГГц,LGA 1700,16 ГБ,DDR4,3200 МГц,Intel UHD Graphics,,256,,120,,https://www.dns-shop.ru/product/e9d2b2f2de9bd582/mini-pk-azerty-az-0037-16-256-120-0709/
+40799,Windows 11 Pro,yes,AMD Ryzen 5 7530U,6,4.5 ГГц,FP6,16 ГБ,DDR4,,AMD Radeon Graphics,,512,SoC,72В,,https://www.dns-shop.ru/product/8e19a4350f58d582/mini-pk-azerty-az-0041-16-512-120-1025/
+40799,без ОС,yes,Intel Core i3-13100,4,4.5 ГГц,LGA 1700,8 ГБ,DDR4,,Intel UHD Graphics 730,,512,Intel H610,120,,https://www.dns-shop.ru/product/79b54a9dca1ded20/mini-pk-msi-pro-dp21-13m-604xru-9s6-b0a421-632/
+19799,Windows 11 Pro,yes,Intel N100,4,,BGA 1264,8 ГБ,DDR4,,Intel UHD Graphics,,256,SoC,36В,,https://www.dns-shop.ru/product/1a2b208343d3d0a4/mini-pk-rombica-horizon-n10-xn1082p-pcmi-0112/
+72999,без ОС,yes,Intel Core 3-100U,6,4.7 ГГц,BGA 1744,8 ГБ,DDR5,,Intel UHD Graphics,,,SoC,120,,https://www.dns-shop.ru/product/fa81b2f56038d582/mini-pk-msi-cubi-nuc-1m-097ru-9s6-b0b111-097/
+30299,Windows 11 Pro,yes,Intel N100,4,0 ГГц,BGA 1264,12 ГБ,LPDDR5,,Intel UHD Graphics,,512,SoC,36В,,https://www.dns-shop.ru/product/bb4f28e410d6ed20/mini-pk-chuwi-larkbox-x/
